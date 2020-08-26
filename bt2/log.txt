@@ -1,0 +1,7 @@
+- sửa lại dạng cho nút gọi -> Done
+- Hình ảnh cho nút gọi. -> Done
+- Sửa dòng thông báo.->Done
+- Sửa hiển thị fb.-> Comming soon
+- Trái phải.-> Comming soon
+- Tối ưu code. -> Comming soon
+- Đưa vào plugin.-> Comming soon
